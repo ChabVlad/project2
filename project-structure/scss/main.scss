@@ -1,0 +1,24 @@
+// TOOLS
+@import '0-tools/mixins';
+@import '0-tools/settings';
+// Закоментировать normalize если используется bootstrap
+// @import '0-tools/normalize';
+@import '0-tools/specialgrid';
+
+
+
+
+// BASE
+
+@import '1-base/body';
+
+
+// MODULES
+
+@import '2-modules/header';
+@import '2-modules/carusel';
+@import '2-modules/section1';
+@import '2-modules/eight';
+@import '2-modules/sidebar';
+@import '2-modules/footer';
+@import '2-modules/flowers';

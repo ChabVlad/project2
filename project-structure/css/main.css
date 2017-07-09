@@ -1,0 +1,51 @@
+.col-sp-1 {
+  float: left;
+  width: 20%;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: relative; }
+
+body {
+  margin: 0;
+  background-color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #666; }
+
+.container {
+  margin-left: 15%;
+  margin-right: 15%;
+  width: auto; }
+
+.section-flowers {
+  height: 650px;
+  background-image: url(img/bridge.jpg); }
+
+.navbar {
+  background-color: black;
+  border: none;
+  height: 100px;
+  margin-bottom: 0; }
+
+.container-fluid {
+  padding-left: 5px; }
+
+.navbar-nav {
+  margin: 24px 0px 0px 97px; }
+
+.logo {
+  float: left;
+  margin-top: 27px; }
+
+.navbar-collapse {
+  float: left;
+  font-size: 13px;
+  font-family: 'Open Sans',sans-serif;
+  text-transform: uppercase; }
+
+.nav li a {
+  padding: 15px 3px; }
+
+.flower {
+  width: 100%; }
